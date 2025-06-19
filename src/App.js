@@ -190,7 +190,7 @@ function App() {
           </div>
         )}
       </div>
-      <div className="mt-6 text-xs text-gray-400">made with 💻 by ChatGPT + 여래</div>
+      <div className="mt-6 text-xs text-gray-400">"@정여래"</div>
     </div>
   );
 }
