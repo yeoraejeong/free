@@ -190,7 +190,7 @@ function App() {
           </div>
         )}
       </div>
-      <div className="mt-6 text-xs text-gray-400">made by 정여래</div>
+      <div className="mt-3 text-xs text-gray-400">made by 정여래</div>
     </div>
   );
 }
